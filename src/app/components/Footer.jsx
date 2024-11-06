@@ -7,7 +7,7 @@ const Footer = () => {
         <span className=' md:text-5xl font-[Courgette] font-normal text-2xl ml-4'>
             Rimsha
         </span>
-        <p className='text-slate-600'>
+        <p className='text-slate-600 text-sm pl-14 sm:text-3xl'>
             All rights reserved.
         </p>
       </div>
